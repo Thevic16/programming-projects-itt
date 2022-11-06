@@ -1,0 +1,3 @@
+C:/Users/victo/CLionProjects/Tarea #1-estructura de datos/Three way partitioning/cmake-build-debug/CMakeFiles/Three_way_partitioning.dir
+C:/Users/victo/CLionProjects/Tarea #1-estructura de datos/Three way partitioning/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/victo/CLionProjects/Tarea #1-estructura de datos/Three way partitioning/cmake-build-debug/CMakeFiles/rebuild_cache.dir
